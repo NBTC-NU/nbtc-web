@@ -4,7 +4,7 @@ $dbhost = "localhost";
 //Setting database user name
 $dbuser = "root";
 //Setting database password
-$dbpass = "Abc007";
+$dbpass = "PASSWORD";
 //Setting database name
 $dbname = "nbtc_nu";
 
